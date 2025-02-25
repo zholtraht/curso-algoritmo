@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Ola_mundo"
 
 var
   msg: Caractere
