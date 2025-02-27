@@ -1,4 +1,4 @@
-algoritmo "Valores absolutos"
+algoritmo "Raiz quadrada"
 
 var
   v: Inteiro
