@@ -6,10 +6,10 @@ var
   soma: Inteiro
 
 inicio
-  escreva("Digite um valor... ")
+  escreva("Digite um valor: ")
     Leia(v1)
 
-  escreva("Digite outro valor... ")
+  escreva("Digite outro valor: ")
     Leia(v2)
 
   soma <- (v1 + v2)
