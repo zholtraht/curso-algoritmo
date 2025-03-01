@@ -7,7 +7,6 @@
 ---
  **Objetivos:**
 
- - Aprofundar meu conhecimento em Desenolvimento.
  - Desenvolver habilidades de resolução de problemas.
  - Conectar-me com outros entusiastas de tecnologia.
 ---
