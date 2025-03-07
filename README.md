@@ -5,7 +5,7 @@
  **Este repositório documenta minha jornada de aprendizado no curso de Algoritmo do Prof. Gustavo Guanabara.**
 
 ---
- **Objetivos:**
+ **Objetivo:**
 
  - Desenvolver habilidades de resolução de problemas.
 ---
