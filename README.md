@@ -8,7 +8,6 @@
  **Objetivos:**
 
  - Desenvolver habilidades de resolução de problemas.
- - Conectar-me com outros entusiastas de tecnologia.
 ---
  **Público-alvo:**
 
